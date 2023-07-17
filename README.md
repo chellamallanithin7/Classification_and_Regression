@@ -1,5 +1,5 @@
 # Exploratory_Data_Analysis
-# Exploratory Data Analysis
+
 
 Welcome to the Exploratory Data Analysis (EDA) repository! In this repository, you will find resources, code examples, and guidelines to perform effective exploratory data analysis on various datasets. Whether you're a beginner or an experienced data analyst, this guide will help you understand the importance of EDA and provide you with practical tools and techniques to uncover insights and patterns hidden within your data.
 
