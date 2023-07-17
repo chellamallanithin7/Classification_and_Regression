@@ -1,0 +1,4 @@
+#Take the Dataset & Create Data Frame
+import pandas as pd
+df=pd.read_csv('/content/winequality-red.csv')
+df
