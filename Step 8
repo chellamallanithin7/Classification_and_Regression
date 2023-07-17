@@ -1,0 +1,2 @@
+#8. fit the model
+model.fit(x_train,y_train)
