@@ -1,0 +1,3 @@
+#7. Apply the Classifiier/Regressor/clusterer
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression()
